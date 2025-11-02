@@ -168,54 +168,5 @@ lstm_units = 50
 dense_units = 32
 ```
 
-## 📚 Referanslar
+n
 
-### 📖 Dataset
-
-- **NASA Prognostics Data Repository**
-- **CMaps Dataset - FD001**
-- Turbofan Engine Degradation Simulation
-
-### 🔬 Methodology
-
-- **CNN**: 1D Convolutional layers for feature extraction
-- **LSTM**: Long Short-Term Memory for sequence modeling
-- **Hybrid Approach**: CNN+LSTM for time series regression
-
-## 🚀 Gelecek Geliştirmeler
-
-### 📈 Model İyileştirmeleri
-
-- [ ] Attention mechanism eklenmesi
-- [ ] Transformer-based model denemeleri
-- [ ] Ensemble modeling yaklaşımı
-- [ ] AutoML ile hyperparameter tuning
-
-### 📊 Veri Genişletme
-
-- [ ] FD002, FD003, FD004 datasets'leri eklenmesi
-- [ ] Multi-engine cross-validation
-- [ ] Real-time prediction pipeline
-
-### 🔧 Production Features
-
-- [ ] Model serving API
-- [ ] Real-time monitoring dashboard
-- [ ] Alert system integration
-- [ ] Automated retraining pipeline
-
-## 📞 İletişim
-
-Bu proje, turbofan motor RUL tahmininde CNN+LSTM hibrit yaklaşımının etkinliğini göstermek amacıyla geliştirilmiştir. Sorularınız ve önerileriniz için issue açabilirsiniz.
-
----
-
-## 🏆 Başarılar
-
-- ✅ **End-to-end ML pipeline** oluşturuldu
-- ✅ **Deep Learning** model başarıyla eğitildi
-- ✅ **Model persistence** (.h5) implement edildi
-- ✅ **Comprehensive testing** protokolü geliştirildi
-- ✅ **Production-ready** kod yapısı oluşturuldu
-
-**🎯 Proje NASA CMaps dataset'inde CNN+LSTM yaklaşımının başarıyla uygulandığını göstermiştir!**
